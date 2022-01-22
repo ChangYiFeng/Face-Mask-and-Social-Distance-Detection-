@@ -2,7 +2,7 @@
 Face Mask and Social Distance Detection in Real-time Stream with EfficientDet pre-trained model.
 
 kaggle - Face Mask Detection
-Contains 853 images belonging to the 3 classes, as well as their bounding boxes in the PASCAL VOC format. Three classes are: With mask, without mask, Mask worn incorrectly.
+Contains 853 images belonging to the 3 classes, as well as their bounding boxes in the PASCAL VOC format. Three classes are: With mask, without mask, Mask worn incorrectly.
 
 
 
